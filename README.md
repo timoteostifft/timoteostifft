@@ -5,7 +5,7 @@
 
 ### 👨🏼‍💻 About me
 
-* 💻 I'm a full stack web developer
+* 💻 I'm a backend developer
 * 📚 Software Engineering student @ PUCRS
 * 🎓 Computer Technician graduated @ IFSUL
 * 📍 Currently living in Porto Alegre, Brasil
