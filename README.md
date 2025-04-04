@@ -1,4 +1,4 @@
-![GitHub followers](https://img.shields.io/github/followers/timoteostifft?style=social)  <img src="https://komarev.com/ghpvc/?username=timoteostifft" alt="timoteostifft" />
+<img src="https://komarev.com/ghpvc/?username=timoteostifft" alt="timoteostifft" />
 
 ## Hello there! I'm Timóteo 👋 
 
